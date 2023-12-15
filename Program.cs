@@ -33,6 +33,8 @@
                     isPrime = false;
                     break;
                 }
+                // Increment the Milestone step
+                milestone++;
             }
 
             // Print Out Message
